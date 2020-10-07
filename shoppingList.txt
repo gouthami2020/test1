@@ -6,3 +6,5 @@ orange
 banana
 carrots
 cereal
+cucumber
+brinjal
