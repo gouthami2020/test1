@@ -5,3 +5,4 @@ cheery
 orange
 banana
 carrots
+cereal
